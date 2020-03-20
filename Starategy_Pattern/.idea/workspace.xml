@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e70f442-86e0-4573-a600-3b19faccbae4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZOM1yaR8uTVu1vC7rYZ1qk9ps2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyPattern.Main" />
+      <module name="Starategy_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StrategyPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="C:\Users\vicma\IdeaProjects\Starategy_Pattern" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e70f442-86e0-4573-a600-3b19faccbae4" name="Default Changelist" comment="" />
+      <created>1584705476016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584705476016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="4" key="#Project_Structure" timestamp="1584705517389">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="4" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1584705517389" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584713282204">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1584713282204" />
+    <state x="446" y="29" key="#com.intellij.ide.util.MemberChooser" timestamp="1584712628932">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="29" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1584712628932" />
+    <state x="371" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584713280735">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689@0.0.1280.689" timestamp="1584713280735" />
+    <state width="1237" height="237" key="GridCell.Tab.0.bottom" timestamp="1584713496990">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584713496990" />
+    <state width="1237" height="237" key="GridCell.Tab.0.center" timestamp="1584713496990">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584713496990" />
+    <state width="1237" height="237" key="GridCell.Tab.0.left" timestamp="1584713496990">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584713496990" />
+    <state width="1237" height="237" key="GridCell.Tab.0.right" timestamp="1584713496990">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584713496990" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1584705481297">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1584705481297" />
+    <state x="91" y="0" key="new project wizard" timestamp="1584713343616">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1584713343616" />
+  </component>
+</project>
