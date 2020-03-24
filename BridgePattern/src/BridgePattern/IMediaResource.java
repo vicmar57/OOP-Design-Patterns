@@ -1,6 +1,6 @@
 package BridgePattern;
 
-public interface IResource {
+public interface IMediaResource {
 	String snippet();
 	String title();
 	String url();

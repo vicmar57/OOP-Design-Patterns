@@ -1,6 +1,6 @@
 package BridgePattern;
 
-public class ArtistResource implements IResource {
+public class ArtistResource implements IMediaResource {
 	Artist artist;
 	
 	public ArtistResource(Artist a) {

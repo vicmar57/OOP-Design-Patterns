@@ -1,7 +1,7 @@
 package BridgePattern;
 
 public class LongForm extends View {
-	public LongForm(IResource r) {
+	public LongForm(IMediaResource r) {
 		super(r);
 		// TODO Auto-generated constructor stub
 	}
