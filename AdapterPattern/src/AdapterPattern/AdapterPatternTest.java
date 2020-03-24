@@ -8,8 +8,8 @@ class AdapterPatternTest {
 
 	@Test
 	public void whenConvertingMPHToKMPH_thenSuccessfullyConverted() {
-	    ICarSpecs bugattiVeyron = new BugattiVeyron();
-	    ICarSpecsAdapter bugattiVeyronAdapter = new CarSpecImpl(bugattiVeyron);
+	    IImperialCarSpecs bugattiVeyron = new BugattiVeyron();
+	    IMetricCarSpecs bugattiVeyronAdapter = new CarSpecAdapter(bugattiVeyron);
 	  
 	    assertEquals(bugattiVeyronAdapter.getSpeed(), 408.4665854);
 	}

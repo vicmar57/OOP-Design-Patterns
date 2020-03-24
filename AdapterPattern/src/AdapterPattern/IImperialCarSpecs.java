@@ -1,6 +1,6 @@
 package AdapterPattern;
 
-public interface ICarSpecs {
+public interface IImperialCarSpecs {
 	// returns speed in MPH 
 	double getSpeed();
 }
