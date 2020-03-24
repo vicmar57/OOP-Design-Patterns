@@ -1,14 +1,16 @@
 package test;
 
+import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
 import main.BubbleLights;
 import main.ChristmasTree;
 import main.ChristmasTreeImpl;
 import main.TreeTopper;
-import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-
-public class ChristmasTreeImplTest {
+class DecoratorPatternTest {
     @Test
     public void givenDecoratorPattern_WhenDecoratorsInjectedAtRuntime_thenConfigSuccess() {
         ChristmasTree tree1 = new TreeTopper(new ChristmasTreeImpl());

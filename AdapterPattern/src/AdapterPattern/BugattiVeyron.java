@@ -1,6 +1,6 @@
 package AdapterPattern;
 
-public class BugattiVeyron implements ICarSpecs {
+public class BugattiVeyron implements IImperialCarSpecs {
 
 	@Override
 	public double getSpeed() {
