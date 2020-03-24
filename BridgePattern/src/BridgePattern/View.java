@@ -1,9 +1,9 @@
 package BridgePattern;
 
 public abstract class View {
-	IResource resource;
+	IMediaResource resource;
 	
-	public View(IResource r) {
+	public View(IMediaResource r) {
 		this.resource = r;
 	}
 	
