@@ -1,5 +1,5 @@
 # Command Pattern
 
-UML diagram:
+## UML diagram:
 
 ![Alt text](CommandUML.jpg?raw=true "Pattern's UML diagram")
