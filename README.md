@@ -2,7 +2,7 @@
 
 OO Design Patterns implemented in java
 
-### The patterns are accompanied by UML diagram for easier understanding
+### The patterns are accompanied by UML diagrams for easier understanding
 
 Like this one for the Composite pattern:
 
