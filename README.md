@@ -6,4 +6,4 @@ OO Design Patterns implemented in java
 
 Like this one for the Composite pattern:
 
-![Alt text](CompositeUML.jpg?raw=true "Pattern's UML diagram")
+![Alt text](CompositePattern/CompositeUML.jpg?raw=true "Pattern's UML diagram")
