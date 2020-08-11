@@ -1,6 +1,6 @@
 # Decorator Pattern
 
-Attaches additional responsibility to an object, dynamically. 
+Attaches additional responsibility to an object, dynamically.   
 Example - coffee+toppings (addons) price calculation.
 
 ## UML diagram:
