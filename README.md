@@ -1,6 +1,6 @@
 # Object oriented Design Patterns
 
-OO Design Patterns implemented in java.
+OOP Design Patterns implemented in java.
 A dotted line with a big arrow represents a "is a.." relationship,
 while a full line with an empty arrow represents a "has a.." relationship.
 
